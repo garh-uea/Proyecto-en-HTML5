@@ -1,6 +1,5 @@
-/* Fondo suave y llamativo */
 body {
-    background: #e8faff; /* azul pastel claro */
+    background: #e8faff;
     font-family: Arial, sans-serif;
     margin: 20px;
 }
@@ -19,7 +18,7 @@ body {
     text-align: center;
 }
 
-/* Imágenes centradas */
+/* Tamaño de Imágenes */
 .image-large {
     width: 70%;
     max-width: 400px;
@@ -43,7 +42,7 @@ table {
 }
 
 th {
-    background: #008c99;
+    background: #0f7777;
     color: white;
     padding: 10px;
 }
@@ -54,7 +53,7 @@ td {
 }
 
 tr:nth-child(even) {
-    background: #f2f9fb; /* tono suave */
+    background: #f2f9fb;
 }
 
 /* Formulario */
